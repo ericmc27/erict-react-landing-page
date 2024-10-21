@@ -6,7 +6,13 @@
     color: gray;
 }
 
-.no-margin{
-    margin: 0 !important;
-    display: none !important;
+.jumbo {
+    margin-left: 168px !important;
+    width: 1214px !important;
 }
+
+.footer-styles {
+    text-align: center;
+    line-height: 100px;
+}
+
