@@ -5,3 +5,8 @@
 .nav-link:not(.active){
     color: gray;
 }
+
+.no-margin{
+    margin: 0 !important;
+    display: none !important;
+}
